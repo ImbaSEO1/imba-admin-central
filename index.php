@@ -160,10 +160,6 @@ add_action( "wp_before_admin_bar_render", function(){
 
 }, 999 );
 
-
-?>
-
-
 ?>
 <?php
 /* Powered By Haysky Code Generator: KEY
